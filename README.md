@@ -1,13 +1,13 @@
-# Hi, I'm Aayush Lohia 👋
+ Hi, I'm Aayush Lohia 
 
 I'm a Computer Science Engineering student at SRM Institute of Science and Technology, Kattankulathur (2023–2027), based in Faridabad, Haryana. I enjoy turning large, messy datasets into clear insights and building full-stack web applications.
 
-## 🔭 What I'm Working On
+##  What I'm Working On
 - Data analytics and visualization projects using Python
 - Machine learning models and data-driven applications
 - Full-stack web development
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,7 +54,7 @@ I'm a Computer Science Engineering student at SRM Institute of Science and Techn
 
 
 
-## 📊 Featured Project: Olympic Data Analysis
+##  Featured Project: Olympic Data Analysis
 Analyzed 271,116 Olympic athlete records spanning 1896 to the present.
 - Cleaned the dataset by removing 22,000+ duplicate records and imputing missing biometric data (94.5% validated accuracy)
 - Standardized historical country codes, reconciling dissolved nations into a modern framework
@@ -65,7 +65,7 @@ Analyzed 271,116 Olympic athlete records spanning 1896 to the present.
 
 [View the project →](https://github.com/Ywerq76/Olympic-Data-Analysis)
 
-## 📫 Connect with Me
+## Connect with Me
 [
 
 ![GitHub](https://img.shields.io/badge/GitHub-Ywerq76-181717?style=for-the-badge&logo=github&logoColor=white)
